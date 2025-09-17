@@ -1,4 +1,4 @@
-# 📄 Excel → CSV Converter (Tema Escuro Navy)
+# 📄 Excel → CSV Converter
 
 Aplicação **single-page web** desenvolvida em **Python** utilizando **Streamlit**, para converter planilhas **Excel (.xls / .xlsx)** em arquivos **CSV**.  
 
