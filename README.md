@@ -3,7 +3,7 @@
 Aplicação **single-page web** desenvolvida em **Python** utilizando **Streamlit**, para converter planilhas **Excel (.xls / .xlsx)** em arquivos **CSV**.  
 
 O sistema foi feito para ser **simples, rápido e visualmente agradável**, com **tema escuro azul marinho (navy)** e interface intuitiva.  
-Suporta **arrastar e soltar (drag & drop)**, preview da planilha antes da conversão e **download direto em CSV** (sem ZIP).  
+Suporta **arrastar e soltar (drag & drop)**, preview da planilha antes da conversão e **download direto em CSV**.  
 
 ---
 
@@ -33,7 +33,7 @@ Suporta **arrastar e soltar (drag & drop)**, preview da planilha antes da conver
 ## 📦 Estrutura do Projeto
 
 ```bash
-excel2csv-streamlit/
+csv-converter/
 ├── app.py              # Código principal da aplicação Streamlit
 ├── requirements.txt    # Dependências do projeto
 └── README.md           # Documentação
@@ -47,8 +47,8 @@ excel2csv-streamlit/
 Baixe o repositório ou extraia os arquivos em uma pasta local:
 
 ```bash
-git clone https://github.com/seuusuario/excel2csv-streamlit.git
-cd excel2csv-streamlit
+git clone https://github.com/tsroliveira/csv-converter.git
+cd csv-converter
 ```
 
 Ou apenas extraia o `.zip` fornecido.
@@ -125,6 +125,8 @@ No menu lateral (**sidebar**), é possível personalizar:
 ### Sidebar
 - Conversão avançada configurável
 - Padrões do cliente destacados
+
+![Application Preview](https://github.com/tsroliveira/csv-converter/blob/main/app.png)
 
 ---
 
